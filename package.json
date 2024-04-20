@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@npmmegan802hb/velit-necessitatibus-illo",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,6 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
-  },
-  "dependencies": {
+    "url": "https://github.com/npmmegan802hb/velit-necessitatibus-illo.git"
   }
 }
